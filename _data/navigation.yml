@@ -2,6 +2,8 @@
 main:
   - title: "Home"
     url: https://monerobux.github.io/
+  - title: "Q & A"
+    url: https://monerobux.github.io/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
