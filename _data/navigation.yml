@@ -1,11 +1,11 @@
 # main links
 main:
   - title: "Home"
-    url: https://monerobux.github.io/
+    url: /
   - title: "Instructions"
-    url: https://monerobux.github.io/
-  - title: "Q & A"
-    url: https://monerobux.github.io/
+    url: /instructions/
+  - title: "FAQ"
+    url: /faq/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
