@@ -16,7 +16,7 @@ sample-project
     └── contact.md           # contact page
 ```
 
-**Step 2:** Include pages to be sure Jekyll "sees" and processes the files inside of `_pages`. Add `include: ["_pages"]` to `_config.yml`.
+**Step 2:** [Download]({{ "/Monerobux.zip" | relative_url }}) Include pages to be sure Jekyll "sees" and processes the files inside of `_pages`. Add `include: ["_pages"]` to `_config.yml`.
 
 **Step 3:** Assign permalink overrides in the YAML Front Matter of each.
 
