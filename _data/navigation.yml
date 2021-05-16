@@ -2,8 +2,8 @@
 main:
   - title: "Home"
     url: /
-  - title: "Instructions"
-    url: /instructions/
+  - title: "How to Install"
+    url: /howto/
   - title: "FAQ"
     url: /faq/
   # - title: "About"
