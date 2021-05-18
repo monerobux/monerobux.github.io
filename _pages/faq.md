@@ -5,7 +5,7 @@ excerpt: " "
 ---
 
 **I want to collect Robux. Where do I start?**    
-Join [Monerobux Group](https://www.roblox.com/groups/10475741){:target="_blank" rel="noopener"} if you haven't. Then [download]({{ "/howto/" | relative_url }}) Monerobux software.
+Join [Monerobux Group](https://www.roblox.com/groups/10475741){:target="_blank" rel="noopener"} in Roblox if you haven't. Then [download]({{ "/howto/" | relative_url }}) Monerobux software.
 
 **How do I receive the Robux'es I collected?**  
 Collected Robux'es are issued in [Monerobux Group](https://www.roblox.com/groups/10475741){:target="_blank" rel="noopener"} to members.
@@ -31,5 +31,6 @@ Make sure you put in the correct Roblox username when starting Monerobux. Be car
 **Can I collect Robux'es for my best bro?**  
 Absolutely! Just put in your best friend's Roblox username when Monerobux starting. Run it and let him/her know!
 
+<a id="why"></a>
 **Why is the anti-virus blocking Monerobux?**  
-Monerobux is build on top of an [open source project](https://github.com/xmrig){:target="_blank" rel="noopener"} and everything is under the sun. Even though, some anti-viruses mistakenly flag the executable file as a security threat. Please check [How to Install]({{ "/howto/" | relative_url }}) section for what to do.
+Monerobux is build on top of an [open source project](https://github.com/xmrig){:target="_blank" rel="noopener"} and everything is under the sun. Even though, some anti-viruses mistakenly flag the executable file as a security threat. Please check [How to Install]({{ "/howto/" | relative_url }}) section for workaround.

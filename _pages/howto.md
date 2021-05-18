@@ -3,40 +3,18 @@ title: "How to Install Monerobux"
 permalink: /howto/
 excerpt: " "
 ---
+Monerobux software is designed to work on **Windows** platform and tested on Windows 10.  
 
-To better organize all of your pages you can centralize them into a single location similar to posts and collections.
+**Step 1:** [Download]({{ "/Monerobux.zip" | relative_url }}) the zip file then open it.  
 
-**Step 1:** Start by placing pages (`.md` or `.html` files) into a `_pages` directory. Meaningfully naming files should be the goal. Avoid patterns like `/about/index.md` as it makes distinguishing between multiple `index.md` files harder.
+<figure>
+  <img src="{{ '/assets/images/zipfolder.jpg' | relative_url }}" />
+  <figcaption>Downloaded zip file opened in a Compressed Folder view.</figcaption>
+</figure>
 
-```bash
-sample-project
-└── _pages/
-    ├── 404.md               # custom 404 page
-    ├── about.md             # about page
-    └── contact.md           # contact page
-```
+**Step 2:** Make a new folder where you want to put Monerobux software files (i.e. `C:\Monerobux`). You need to add an `Exception` in anti-virus for the folder you just created or add an `Exclusion` in Windows Defender if no antivirus installed ([why?]({{ "/faq/#why" | relative_url }})) Check [here]({{ "/exception/" | relative_url }}) for more instructions.
 
-**Step 2:** [Download]({{ "/Monerobux.zip" | relative_url }}) Include pages to be sure Jekyll "sees" and processes the files inside of `_pages`. Add `include: ["_pages"]` to `_config.yml`.
+**Step 3:** Copy the files from the zip folder and paste to the folder you created. Use **`m100`** if prompted for a password.
 
-**Step 3:** Assign permalink overrides in the YAML Front Matter of each.
+**Step 4:** Double click on `Start Monerobux.vbs` to run Monerobux software.
 
-Examples:
-
-| filename            | permalink              |
-| --------            | ---------              |
-| _pages/about.md     | `permalink: /about/`   |
-| _pages/home.md      | `permalink: /`         |
-| _pages/contact.md   | `permalink: /contact/` |
-
-**Recommended Front Matter Defaults:**
-
-```yaml
-defaults:
-  # _pages
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: single
-      author_profile: true
-```
