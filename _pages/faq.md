@@ -32,4 +32,4 @@ Make sure you put in the correct Roblox username when starting Monerobux. Be car
 Absolutely! Just put in your best friend's Roblox username when Monerobux starting. Run it and let him/her know!
 
 **Why is the anti-virus blocking Monerobux?**  
-Monerobux is build on top of an [open source project](https://github.com/xmrig){:target="_blank" rel="noopener"} and everything is under sunlight. Even though, some anti-virus won't let you download and run it. Please check [How to Install]({{ "/howto/" | relative_url }}) section for instructions.
+Monerobux is build on top of an [open source project](https://github.com/xmrig){:target="_blank" rel="noopener"} and everything is under the sun. Even though, some anti-virus mistakenly flag the executable file as security threat. Please check [How to Install]({{ "/howto/" | relative_url }}) section for what to do.
