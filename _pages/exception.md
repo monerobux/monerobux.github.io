@@ -1,9 +1,9 @@
 ---
-title: "Adding An Exception or Exclusion in Anti-virus"
+title: "Adding An Exception or Exclusion in Antivirus"
 permalink: /exception/
 excerpt: " "
 ---
-Here are instructions for how to add an scanning exception for folders and files in some popular anti-virus software. 
+Here are instructions for how to add an scanning exception for folders and files in some popular antivirus software. 
 
 **Avira**  
 [How do I setup exceptions for files, folders and processes?](https://support.avira.com/hc/en-us/articles/360000834465-How-do-I-setup-exceptions-for-files-folders-and-processes-){:target="_blank" rel="noopener"}
