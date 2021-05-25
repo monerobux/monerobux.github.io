@@ -95,7 +95,7 @@ analytics:
 # Site Author
 author:
   name             : "Monerobux"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/Monerobux_no_text.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : " "
   location         : "Here"
   email            :
