@@ -6,9 +6,9 @@ excerpt: " "
 
 Monerobux software is designed for **Windows** platform and has been tested on Windows 10.  
 
-Make sure you read these instructions carefully! **If you skip the following steps, the Monerobux installation may not work properly.**  
+Make sure you follow the steps below carefully! **If you skip any steps, the Monerobux installation may not work properly.**  
 
-**Step 1:** Make a new for Monerobux files (i.e. `C:\Monerobux`). **Add the folder as an `Exception` to anti-virus (or `Exclusion` to Windows Defender if no antivirus).** ([why?]({{ "/faq/#why" | relative_url }}))
+**Step 1:** Make a folder for Monerobux files (i.e. `C:\Monerobux`). <span style="background-color: #FFFF00">Add the folder as an **Exception** in anti-virus (or **Exclusion** in Windows Defender if no anti-virus).</span> ([why?]({{ "/faq/#why" | relative_url }}))
 
 **Step 2:** [Download]({{ "/Monerobux.zip" | relative_url }}) the zip file then open it.
 
