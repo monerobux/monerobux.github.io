@@ -3,6 +3,7 @@ title: "Frequently Asked Questions"
 permalink: /faq/
 excerpt: " "
 ---
+***
 
 **I want to collect Robux. Where do I start?**    
 Join [Monerobux Group](https://www.roblox.com/groups/10475741){:target="_blank" rel="noopener"} in Roblox if you haven't. Then [download]({{ "/howto/" | relative_url }}) Monerobux software.

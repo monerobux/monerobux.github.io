@@ -3,6 +3,7 @@ title: "How to Install Monerobux"
 permalink: /howto/
 excerpt: " "
 ---
+***
 
 Monerobux software is designed for **Windows** platform and has been tested on Windows 10.  
 
