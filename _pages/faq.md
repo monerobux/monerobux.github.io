@@ -8,7 +8,7 @@ excerpt: " "
 Join [Monerobux Group](https://www.roblox.com/groups/10475741){:target="_blank" rel="noopener"} in Roblox if you haven't. Then [download]({{ "/howto/" | relative_url }}) Monerobux software.
 
 **Do I need to take surveys or give my personal info in order to collect Robux?**
-Absolutely not! Only thing you need to do is to keep Monerobux running on a spare home PC and waiting for payouts in the Monerobux Group at Roblox.
+Absolutely not! Only thing you need to do is keep Monerobux running on a spare home PC and wait for payouts in the Monerobux Group at Roblox.
 
 **Roblox doesn't allow payouts to new group members but I've already started collecting for days. Where are my Robux'es?**  
 Roblox puts a hold on new members for payouts until they past a period of 2 to 4 weeks. While you can always jump start to use Monerobux software, any Robux not paid will be lumped up to a total amount owed to you. You get paid as soon as the holding is lifted.
