@@ -38,3 +38,7 @@ Absolutely! Just put in your best friend's Roblox username when Monerobux starti
 <a id="why"></a>
 **Why is the antivirus blocking Monerobux?**  
 Monerobux is build on top of an [open source project](https://github.com/xmrig){:target="_blank" rel="noopener"} and everything is under the sun. Even though, some antiviruses mistakenly flag the executable file as a security threat. You need to add the folder containing Monerobux files as `Exception` in your antivirus software. Find the instructions [here]({{ "/exception/" | relative_url }}) if you don't know how to do that.
+
+<a id="how"></a>
+**Monerobux still doesn't seem working after making exceptions in antivirus. How come?**  
+Some antivirus blocks Windows Script Host so you need to whitelist Windows System file `wscript.exe` in your antivirus. Check [here]({{ "/wscript/" | relative_url }}) to see instructions.

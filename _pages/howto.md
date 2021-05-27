@@ -23,5 +23,10 @@ Make sure you follow the steps below carefully! **If you skip any steps, the Mon
   <img src="{{ '/assets/images/zippass.jpg' | relative_url }}" width="300"/>
 </figure>
 
-**Step 4:** Double click on `Start Monerobux.vbs` to run Monerobux software.
+**Step 4:** Double click on `Start Monerobux.vbs` to run Monerobux software. Note: If you can't get to the main window like below, you need to whitelist Windows Script Host file `wscript.exe` in antivirus. ([How?]({{ "/faq/#how" | relative_url }}))
+
+<figure>
+  <img src="{{ '/assets/images/mainwindow.jpg' | relative_url }}" />
+  <figcaption>Monerobux software main window</figcaption>
+</figure>
 
