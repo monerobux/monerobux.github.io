@@ -5,6 +5,9 @@ excerpt: " "
 ---
 ***
 
+> **Awesome! Roblox player \#\#\#\#\#\#\#\# is running Monerobux at 2.03 Robux/day. Daily payouts are coming down soon!**  
+> 26-May-2021
+
 > **As we have officially launched, starting today real time stats of a selected user will be posted here with the username hidden. It just shows activities of Monerobux operation.**  
 > 26-May-2021
 
