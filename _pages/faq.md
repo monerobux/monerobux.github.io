@@ -8,7 +8,7 @@ excerpt: " "
 **I want to collect Robux. Where do I start?**    
 Join [Monerobux Group](https://www.roblox.com/groups/10475741){:target="_blank" rel="noopener"} in Roblox if you haven't. Then [download]({{ "/howto/" | relative_url }}) Monerobux software.
 
-**Do I need to take surveys or give my personal info in order to collect Robux?**
+**Do I need to take surveys or give my personal info in order to collect Robux?**  
 Absolutely not! Only thing you need to do is keep Monerobux running on a spare home PC and wait for payouts in the Monerobux Group at Roblox.
 
 **Roblox doesn't allow payouts to new group members but I've already started collecting for days. Where are my Robux'es?**  
@@ -29,7 +29,7 @@ Make sure you are a member of [Monerobux Group](https://www.roblox.com/groups/10
 **How come I didn't receive any Robux today?**  
 Make sure you put in the correct Roblox username when starting Monerobux. Be careful about typos, e.g. "ariel_tlm" vs "arial_tlm". Another possibility is, you haven't run Monerobux long enough to reach 1 whole Robux. In this case fractions will be added to the next day.
 
-**Can I collect Robux on multiple PC's for one Roblox account?**
+**Can I collect Robux on multiple PC's for one Roblox account?**  
 No problem at all! You just enter the same Roblox username on all machines during starting Monerobux. Your payback depends on CPU power you provided under the same username. The more PC's work for you, the faster you receive Robux.
 
 **Can I collect Robux for my best bro?**  
