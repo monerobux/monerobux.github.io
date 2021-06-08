@@ -24,7 +24,7 @@ Make sure you follow the steps below carefully! **If you skip any steps, the Mon
 </figure>
 
 **Step 4:** Double click on `Start Monerobux.vbs` to run Monerobux software. Note:   
-- If you are asked to download and install `.NET Runtime` while you run first time, download and run the Windows `x64` file.
+- If you are asked to download and install `.NET Runtime` while you run first time, download and run the Windows `x64` file to install the module. Then restart Monerobux Software.
 - If you still can't get to the main window like below, you need to whitelist Windows Script Host file `wscript.exe` in antivirus. ([How?]({{ "/faq/#how" | relative_url }}))
 
 <figure>
