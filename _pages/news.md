@@ -5,6 +5,9 @@ excerpt: " "
 ---
 ***
 
+> **Kudos! Roblox player \#\#\#\#\#\#\#\# is running Monerobux at 1.04 Robux/day. Daily payouts are coming down soon!**  
+> 21-June-2021
+
 > **Nice! Roblox player \#\#\#\#\#\#\#\# is running Monerobux at 1.89 Robux/day. Daily payouts are coming down soon!**  
 > 20-June-2021
 
